@@ -1,0 +1,15 @@
+{
+  "name": "google-tasks-parser",
+  "version": "1.0.0",
+  "description": "Parses a Tasks.json file and converts it to a markdown list",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Justin Gajitos",
+  "license": "UNLICENSED",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^18.6.2"
+  }
+}
